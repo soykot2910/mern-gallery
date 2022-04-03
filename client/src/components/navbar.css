@@ -1,0 +1,21 @@
+.indigo {
+  background-color: rgb(10, 125, 219);
+  color: white;
+  display: flex;
+  align-items: center;
+  padding-left: 30%;
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.nav-wrapper {
+  display: flex;
+  padding: 20px;
+}
+#label {
+  cursor: pointer;
+  margin-left: 500px;
+}
